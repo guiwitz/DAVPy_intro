@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/DAVPy_intro/HEAD)
+[![launch - renku](https://renkulab.io/renku-badge.svg)](https://renkulab.io/projects/guiwitz/davpy-intro/sessions/new?autostart=1)
 # Data Analysis and Visualization with Python Introduction
 
 This repository allows you to run Jupyterlab without any installation directly in your browser. This allows you to discover basics of notebooks and Python "out-of-the-box". For the next stage of the course, please visit the main [DAVPy repo](https://github.com/guiwitz/DAVPy).
