@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/DAVPy_intro/HEAD)
 [![launch - renku](https://renkulab.io/renku-badge.svg)](https://renkulab.io/projects/guiwitz/davpy-intro/sessions/new?autostart=1)
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # Data Analysis and Visualization with Python Introduction
 
 This repository allows you to run Jupyterlab without any installation directly in your browser. This allows you to discover basics of notebooks and Python "out-of-the-box". For the next stage of the course, please visit the main [DAVPy repo](https://github.com/guiwitz/DAVPy).
@@ -17,3 +19,10 @@ There are three ways to run the notebooks.
     - go to the [project page](https://renkulab.io/projects/guiwitz/davpy-intro) and make your own "copy" using the fork button
     - now you can use the start button to create a session. Note that the first time, this might take up to 10-15 min until your project is properly built
 <img src="https://github.com/guiwitz/DAVPY_intro/raw/main/illustrations/renku_fork.png" alt="image" width="500">
+
+## License
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
